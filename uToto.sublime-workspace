@@ -1,0 +1,656 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"line",
+				"lineIndex"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"mode",
+				"Model"
+			],
+			[
+				"in",
+				"increase"
+			],
+			[
+				"rec",
+				"rect"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"ball",
+				"ballx"
+			],
+			[
+				"bal",
+				"bally"
+			],
+			[
+				"ba",
+				"ballx"
+			],
+			[
+				"b",
+				"ballx"
+			],
+			[
+				"ea",
+				"easingTargetY"
+			],
+			[
+				"c",
+				"ctx"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"e",
+				"easingTargetY"
+			],
+			[
+				"eas",
+				"easingTargetX"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"an",
+				"animation-duration"
+			],
+			[
+				"sam",
+				"smallRadius"
+			],
+			[
+				"chan",
+				"changeCoordination"
+			],
+			[
+				"ro",
+				"rotateZ"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bou",
+				"boundsx"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"co",
+				"cloth"
+			],
+			[
+				"can",
+				"canObjects"
+			],
+			[
+				"row",
+				"row_obj"
+			],
+			[
+				"col",
+				"colorFlip"
+			],
+			[
+				"click",
+				"clickHander"
+			],
+			[
+				"se",
+				"setTimeOut"
+			],
+			[
+				"v",
+				"vObjectLayer"
+			],
+			[
+				"ma",
+				"matrixSize"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"tim",
+				"timeoutToken"
+			],
+			[
+				"de",
+				"default_red"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"mae",
+				"makeTriangleRight"
+			],
+			[
+				"a",
+				"appendChild"
+			],
+			[
+				"div",
+				"divLayer"
+			],
+			[
+				"cre",
+				"createLayer"
+			],
+			[
+				"default",
+				"default-yellow"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cli",
+				"clickX"
+			],
+			[
+				"cen",
+				"centerX"
+			],
+			[
+				"tran",
+				"translate()"
+			],
+			[
+				"re",
+				"removeChild"
+			],
+			[
+				"rota",
+				"rotateZ()"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"client",
+				"clientX"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"canvas",
+				"canvasLayer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/geun/Documents/Udacity/JSPattern/ud989-todo-app"
+	],
+	"file_history":
+	[
+		"/Users/geun/Documents/Udacity/pythonBasic/Practice/loop.py",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/sass/screen.scss",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/haml/test.haml",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/haml/test.html",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/sass/example.scss",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/ex1.html",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/test.html",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/stylesheets/screen.css",
+		"/Users/geun/Documents/myweb/zenGarden/zenGarden/zenGarden.sublime-project",
+		"/Users/geun/Documents/myweb/zenGarden/style.css",
+		"/Users/geun/Documents/myweb/zenGarden/genGarden/sass/print.scss",
+		"/Users/geun/Documents/myweb/zenGarden/genGarden/sass/screen.scss",
+		"/Users/geun/Documents/myweb/zenGarden/style.scss",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p1.scss",
+		"/Users/geun/Library/Application Support/Sublime Text 3/Packages/Compass/Compass.sublime-build",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p-css.html",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p.sass",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/untitled.sass.scss",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p1.sass.scss",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p1.css",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p2.css",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p2.sass",
+		"/Users/geun/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/geun/Documents/공부 - web/css zen/csszen/p5.html",
+		"/Users/geun/Downloads/style.css",
+		"/Users/geun/Downloads/index.html",
+		"/Users/geun/Documents/공부 - py/1.py",
+		"/Users/geun/Documents/공부 - web/codepen playground/p1.html",
+		"/Users/geun/Documents/공부 - web/codepen playground/p4.html",
+		"/Users/geun/Documents/공부 - web/codepen playground/p3.html",
+		"/Users/geun/Documents/공부 - web/codepen playground/p1.css",
+		"/Users/geun/Documents/공부 - web/codepen playground/p2.css",
+		"/Volumes/MGTEC/1. book/Computer programing books/10. web dev/HTML and CSS/9HTML5lessons/HTML5_06lessons/base.css",
+		"/Volumes/MGTEC/1. book/Computer programing books/10. web dev/HTML and CSS/9HTML5lessons/HTML5_06lessons/reset.css",
+		"/Users/geun/Documents/공부 - web/codepen playground/p2.html",
+		"/Users/geun/Documents/공부 - web/codepen playground/p1.js",
+		"/Users/geun/Documents/project/codepen/node-test.html",
+		"/Users/geun/Documents/project/codepen copy/nod.html",
+		"/Users/geun/Documents/IT diary/creativity.txt",
+		"/Users/geun/Documents/IT diary/A bit angry",
+		"/Users/geun/Documents/project/codepen/logo_mousemove.html",
+		"/Users/geun/Documents/project/codepen/easing1ex.html",
+		"/Users/geun/Documents/project/codepen/raindrops.html",
+		"/Users/geun/Documents/IT diary/Important SCSS rules (for me).txt",
+		"/Users/geun/Documents/project/codepen/scatteredBall.html",
+		"/Users/geun/Documents/project/codepen/waterbubble.html",
+		"/Users/geun/Documents/project/codepen/blob.html",
+		"/Users/geun/Documents/project/codepen/mashine-copy.html",
+		"/Users/geun/Documents/project/cloud/sass/blob.scss",
+		"/Users/geun/Documents/project/codepen/redball.html",
+		"/Users/geun/Documents/project/cloud/blob.html",
+		"/Users/geun/Documents/project/cloud/bgflip2.html",
+		"/Users/geun/Documents/project/cloud/cloud.html",
+		"/Users/geun/Documents/project/cloud/rotate2.html",
+		"/Users/geun/Documents/project/cloud/circle_indefinite.html",
+		"/Users/geun/Documents/project/cloud/trianglelines.html",
+		"/Users/geun/Documents/project/cloud/cloudT.html",
+		"/Users/geun/Documents/project/cloud/requestAnimation2-raindrops.html",
+		"/Users/geun/Documents/project/cloud/requestAnimation2-raindrops-copyv1.html",
+		"/Users/geun/Documents/IT diary/Toastmaster",
+		"/Users/geun/Documents/IT diary/how to practice.txt",
+		"/Users/geun/Documents/IT diary/그게 나의 문제였나.txt",
+		"/Users/geun/Documents/project/cloud/stylesheets/triangleline.css",
+		"/Users/geun/Documents/project/cloud/sass/triangleline.scss",
+		"/Users/geun/Documents/IT diary/22.04.2016",
+		"/Users/geun/Documents/IT diary/My priority.txt",
+		"/Users/geun/Documents/IT diary/The call.txt",
+		"/Users/geun/Documents/IT diary/이제까지.txt",
+		"/Users/geun/Documents/project/cloud/GreenLogo1.html",
+		"/Users/geun/Documents/IT diary/20.04.2016txt",
+		"/Users/geun/Documents/project/cloud/stylesheets/The call(1).txt",
+		"/Users/geun/Documents/project/cloud/stylesheets/copy tearable cloth.html",
+		"/Users/geun/Documents/IT diary/그냥.txt",
+		"/Users/geun/Documents/IT diary/animationKey point",
+		"/Users/geun/Documents/project/cloud/requestAnimation.html",
+		"/Users/geun/Documents/IT diary/18.4.2016.txt",
+		"/Users/geun/Documents/IT diary/convet hex .txt",
+		"/Users/geun/Documents/project/cloud/stylesheets/bgflip.css",
+		"/Users/geun/Documents/project/cloud/rotate.html",
+		"/Users/geun/Documents/project/cloud/dune.html",
+		"/Users/geun/Documents/IT diary/about callback.txt",
+		"/Users/geun/Documents/IT diary/15.04.2016.txt",
+		"/Users/geun/Documents/IT diary/14.4.2016.txt",
+		"/Users/geun/Documents/project/cloud/bgflip.html",
+		"/Users/geun/Documents/project/codepen/bgflip.html",
+		"/Users/geun/Documents/project/cloud/sass/bgflip.scss",
+		"/Users/geun/Documents/IT diary/13.04.2016.txt",
+		"/Users/geun/Documents/IT diary/10.04.2016.txt",
+		"/Users/geun/Documents/project/cloud/logo.html",
+		"/Users/geun/Documents/project/sass/ex.html",
+		"/Users/geun/Documents/IT diary/9.4.2016.txt",
+		"/Users/geun/Documents/IT diary/8.4.2016",
+		"/Users/geun/Documents/IT diary/06.04.2016.txt",
+		"/Users/geun/Documents/project/cloud/text.html",
+		"/Users/geun/Documents/IT diary/onload.txt",
+		"/Users/geun/Documents/IT diary/3.4.2016.txt",
+		"/Users/geun/Documents/project/articles/circle code.txt",
+		"/Users/geun/Documents/IT diary/2.4.2016.txt",
+		"/Users/geun/Documents/IT diary/1.4.2016.txt",
+		"/Users/geun/Documents/project/comp/sass/test.scss",
+		"/Users/geun/Documents/project/comp/sass/main.scss",
+		"/Users/geun/Documents/IT diary/terminology and feelings.txt",
+		"/Users/geun/Documents/IT diary/I wish to know this",
+		"/Users/geun/Documents/IT Tips/terminology and feelings.txt",
+		"/Users/geun/Documents/project/comp/sass/ie.scss",
+		"/Users/geun/Documents/project/comp/stylesheets/main.css",
+		"/Users/geun/Documents/project/sass/1.5 reusing.scss",
+		"/Users/geun/Documents/line.webarchive",
+		"/Users/geun/Documents/project/sass/1.scss",
+		"/Users/geun/Documents/project/articles/What I did 24.03.2016",
+		"/Users/geun/Documents/project/articles/My priority or my goal"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"preamble",
+			";\n",
+			"left: 5%;",
+			"})();\n",
+			"\"];\n",
+			"]);\n",
+			"filter",
+			"lineGap",
+			";\n",
+			"lineSize",
+			"oSize",
+			"\t<link rel=\"stylesheet\" type=\"text/jsscript\" href=\"\">\n",
+			"\t    \t",
+			"this",
+			"request",
+			"doyle",
+			"a",
+			"a ",
+			"getTime",
+			"radius",
+			"radiius",
+			"rand",
+			"sin(",
+			"sin",
+			"objects",
+			"pop",
+			"popup",
+			"splice",
+			"createElement",
+			"width",
+			"left",
+			"width",
+			"appen",
+			"clear",
+			"clare",
+			"rgba",
+			"0.3",
+			"party",
+			"luxury car",
+			"external",
+			"withi",
+			"this",
+			"}\n",
+			");\n",
+			"      \n",
+			">\n",
+			";\n",
+			"}\n",
+			"\n</",
+			"155",
+			"cloth",
+			"layers",
+			"color",
+			"generate",
+			"var",
+			");",
+			"\"></",
+			"10",
+			"100",
+			"col_obj",
+			"curpos",
+			"motionStart",
+			"matrixSize",
+			"currentColumn",
+			"\t<style type=\"text/css\" href=\"\"></style>\n",
+			"red, yellow",
+			"layer",
+			"speed",
+			"');\n",
+			"webkitTransform",
+			"%));\n",
+			"longshadow"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"left: 100;",
+			"this",
+			"context"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 176.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "uToto.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/myweb/zenGarden/zenGarden/zenGarden.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
